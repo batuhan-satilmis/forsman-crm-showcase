@@ -1,6 +1,6 @@
 # Forsman CRM — Architecture & Security Showcase
 
-> A production-deployed, multi-tenant SaaS CRM I designed, built, and continue to harden as sole engineer at Forsman Technology & Consulting LLC. **This repository is a public architectural overview — the source code remains proprietary.**
+> A production-deployed, multi-tenant SaaS CRM I designed, built, and continue to harden as sole engineer at Forsman Technology & Consulting. **This repository is a public architectural overview — the source code remains proprietary.**
 
 ---
 

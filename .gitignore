@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+
+# Sanity guard: nothing that could leak code or secrets
+*.env
+*.env.*
+secrets/
+src/
+*.sql
+*.tsx
+*.jsx
+node_modules/

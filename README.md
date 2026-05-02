@@ -1,6 +1,11 @@
 # Forsman CRM — Architecture & Security Showcase
 
-> A production-deployed, multi-tenant SaaS CRM I designed, built, and continue to harden as sole engineer at Forsman Technology & Consulting. **This repository is a public architectural overview — the source code remains proprietary.**
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](./LICENSE)
+[![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010%20covered-brightgreen.svg)](./SECURITY.md)
+[![NIST CSF](https://img.shields.io/badge/aligned-NIST%20CSF-blue.svg)](./SECURITY.md)
+[![SOC 2 ready](https://img.shields.io/badge/SOC%202-readiness--ready-blue.svg)](./ROADMAP.md)
+
+> A production-deployed, multi-tenant SaaS CRM I designed, built, and continue to harden as sole engineer at Forsman Technology & Consulting LLC. **This repository is a public architectural overview — the source code remains proprietary.**
 
 ---
 
